@@ -50,7 +50,7 @@ Here is some code I am working on that will predict how a section of ground will
 
 
 
-#Backup of all code below
+# Backup of All Code Below
 
 #Input Parameters - Make each of these inputs to a function later
 Geotherm <- 0.2  
