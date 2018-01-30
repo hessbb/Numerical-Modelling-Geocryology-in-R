@@ -2,7 +2,7 @@
 Here is some code I am working on that will predict how a section of ground will react to different temperature variations over the course of a year, namely looking at ice penetration at depth.
 # Analytical-exercise.R
 #Original code in collaboration with Robert Martin and using packages created by Stephan Gruber
-# Formulas:
+# Formulae references:
 #'
 #'             CALONNE: Calonne, N., Flin, F., Morin, S., Lesaffre, B., du 
 #'             Roscoat, S. R., & Geindreau, C. (2011). Numerical and experimental
