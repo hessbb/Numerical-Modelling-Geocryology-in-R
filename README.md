@@ -47,6 +47,11 @@ Here is some code I am working on that will predict how a section of ground will
 #'             approximation of consituent elements layered normal to 
 #'             temperature gradient.
 #'
+
+
+
+#Backup of all code below
+
 #Input Parameters - Make each of these inputs to a function later
 Geotherm <- 0.2  
 Vol_HC <- 1.8e6 #Volumetric Heat Capacity
